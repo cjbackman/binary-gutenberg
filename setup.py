@@ -11,6 +11,9 @@ setup(
     install_requires=[
         "click >= 8.1.3",
         "openai >= 1.6.1",
+        "PyMuPDF >= 1.23.8",
+        "opencv-python >= 4.8.1",
+        "numpy >= 1.26.2",
     ],
     extras_require={
         "dev": [

@@ -3,3 +3,5 @@ venv/
 *.virtual_documents/
 *.egg-info
 build/
+*.DS_Store
+*extracted_images/
